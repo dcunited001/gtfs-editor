@@ -259,7 +259,7 @@ public class RouteController extends Controller {
     	catch (Exception e) {
     		e.printStackTrace();
     		tx.rollback();
-    		throw e;
+    		error(e);
     	}
     }
 }
