@@ -13,6 +13,9 @@ A web-based GTFS editing framework.
 
 Follow the instructions [here](INSTALL.md) for information on installation.
 
+### Getting Play 1.x set up within Jetbrains
+
+Follow [these instructions](https://www.jetbrains.com/idea/help/play-framework-1-x.html) to set up the workspace file and add run/debug environments.
 
 ### Uploading GTFS for Roanoke
 
