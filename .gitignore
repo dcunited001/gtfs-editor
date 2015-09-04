@@ -14,3 +14,4 @@ test-result
 dropAndRecreateDatabase.sh
 dump
 .idea
+play-framework/
